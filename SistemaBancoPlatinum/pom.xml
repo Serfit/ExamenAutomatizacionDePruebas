@@ -3,7 +3,6 @@
   <groupId>com.platinum</groupId>
   <artifactId>CtaCorriente</artifactId>
   <version>0.0.1-PLATINUM</version>
-  <packaging>pom</packaging>
   <name>Examen Automatizacion de pruebas</name>
   
    <properties>
